@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+}
+
+.label {
+    -fx-font-family: 'Montserrat';
+    -fx-font-size: 20;
+}
+
+.button .text {
+    -fx-font-family: 'Montserrat';
+    -fx-fill: white;
+}
+
+#login_title{
+	-fx-font-size: 54;
+}
+#label_pickname{
+	-fx-font-size: 16;
+}
+
+.button{
+	-fx-background-color: #188ca5;
+	-fx-border-color: transparent;
+	-fx-border-insets: 0;
+	-fx-effect: none;
+	-fx-padding: 5px;
+	
+}
+
+#lbl_hello{
+	-fx-font-size: 48;
+}
+
+#label_title{
+	-fx-font-size: 48;
+}
+
+#label_info{
+	-fx-font-size: 12;
+}
+
+#list_games{
+	 -fx-font-family: 'Montserrat';
+}
